@@ -1,2 +1,2 @@
-# Unit-Testing-in-Android
-Android Unit Testing and Test Driven Development
+# Unit Testing in Android 
+Android Unit Testing and Test Driven Development course
